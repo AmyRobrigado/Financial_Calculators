@@ -1,0 +1,74 @@
+/* Home / General Styling */
+
+body {
+    background-color: #e7e5ec;
+}
+
+header {
+background-image: url(/images/ipad.png);
+background-size: 100%;
+background-position: 10px;
+}
+
+h1, p {
+    margin: 30px;
+}
+
+h1 {
+    color: #05616e;
+    font-weight: bolder;
+}
+
+ h2 {
+    text-align: center;
+ }
+
+p {
+    color: #182757;
+    font-weight: 500;
+}
+
+a {
+    color: #c0bbcf !important;
+    font-weight: bolder !important;
+}
+
+a:hover {
+    color: #746796!important;
+}
+
+.navbar {
+    background-color: #304073;
+}
+
+.btn {
+    border-color: #7986ac !important;
+    background-color: #07143a !important;
+    color: #7986ac !important;
+}
+
+.btn:hover {
+    border-color: #07143a !important;
+    background-color: #50608f !important; 
+    color: #07143a !important;
+}
+
+
+#learn-more {
+    margin: 10px;
+}
+
+#para-fill {
+    margin: 10px;
+}
+
+#sign-up {
+    background-color: #71c0cc;
+    border-radius: 5px;
+}
+
+
+
+
+
+
