@@ -23,7 +23,7 @@ function calBtnOnClick() {
 
     let apyPercent = intNum / 100;
     //let apyAmount = answer1 (Math.pow(1 + (apyPercent / 365),(365 * answer3)));
-    let apyAmount = depNum * (1 + intNum/yearsNum)Math.pow(yearsNum);
+    let apyAmount = depNum * (1 + intNum/yearsNum)(Math.pow(yearsNum(5)));
     let intEarned = apyAmount - depNum; 
 
     const futValue = document.getElementById("futValue");
